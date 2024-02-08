@@ -503,41 +503,39 @@ p {
     #cases{
         margin:40px 0px;
         width:100%;
-      }
+    }
 
     #cases>ul{
         display:flex;
         list-style:none;
-      }
+    }
 
-      #cases > ul >li{
+    #cases > ul >li{
         width:33%;
         margin:20px;
-      }
+    }
       
-      .case-card{
+    .case-card{
         background-color: #FFFFFF;
         min-height: 400px;
         box-shadow: 5px 5px 15px 15px rgba(0,0,0,0.2);
-      }
+    }
       
-      .case-img{
+    .case-img{
         width:100%;
-      }
+    }
       
-      .case-info{
+    .case-info{
         padding:10px 20px;
-      }
+    }
       
-      .case-name{
+    .case-name{
         color: #2710d5;
         font-size: 19px;
-        margin:0 0 30px 30px;
-      }
-      .case-content{
+    }
+    .case-content{
         font-size:14px;
-        margin:30px 20px ;
-      }
+    }
 
 
     /* mission.html用スタイル */
@@ -1338,9 +1336,6 @@ p {
     .product-section1 > img {
         width: 100%;
         border-radius: 0 300px 0 0;
-    }
-
-    .product-section1 > div {
     }
 
     .product-section2 {
